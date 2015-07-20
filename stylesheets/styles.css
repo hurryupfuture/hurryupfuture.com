@@ -48,6 +48,8 @@ footer
   position: absolute;
   right: 20px;
   bottom: 20px;
-  color: rgba(255,255,255,0.4);
+  color: rgba(255,255,255,0.25);
   font-size: 80%;
+  font-variant: small-caps;
+  letter-spacing: 1px;
 }
