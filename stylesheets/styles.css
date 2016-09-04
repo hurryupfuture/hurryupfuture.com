@@ -19,7 +19,7 @@ body
   margin: 0;
   padding: 0;
   color: #fff;
-  font-family: "Futura Light", pt-futura, sans-serif;
+  font-family: "futura-pt", sans-serif;
 }
 
 #container
@@ -50,7 +50,6 @@ footer
   right: 20px;
   bottom: 20px;
   color: rgba(255,255,255,0.5);
-  font-size: 80%;
-  font-variant: small-caps;
+  font-size: 70%;
   letter-spacing: 1px;
 }
